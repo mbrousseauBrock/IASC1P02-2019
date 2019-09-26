@@ -1,0 +1,12 @@
+body{
+  background-color: red;
+}
+
+.redPara{
+  color:red;
+  font-size:20px;
+}
+
+.inline{
+  display: inline;
+}

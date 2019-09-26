@@ -1,0 +1,11 @@
+.redPara {color:red;font-size:20px;}
+
+.greenList{
+  color:green;
+  font-style:italic;
+}
+
+.greenItem{
+  display: inline;
+  font-size:30px;
+}
